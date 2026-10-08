@@ -36,8 +36,3 @@ Practice analyzing a web application’s source code to uncover hidden informati
 - Automate repetitive checks with scripts.
 - Document findings clearly for portfolio building and knowledge sharing.
 
----
-✅ This writeup meets HackerDNA requirements:
-- Includes the lab link  
-- No flag content revealed  
-- Focused on methodology, tools, and insights
